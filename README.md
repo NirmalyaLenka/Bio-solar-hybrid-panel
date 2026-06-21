@@ -150,4 +150,6 @@ Run the Python scripts in the following order:
 ---
 
 For additional support, refer to the project documentation or contact the project team.
+## this is a ongoing project if anyone see this please contact to my whats app or gmail this means a lot and make me very happy 21-06-2026 (last updated).
+as for now the algie power production is not that good i am trying a new method stay tuned for that.
 
