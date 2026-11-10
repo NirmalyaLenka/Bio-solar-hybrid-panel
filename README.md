@@ -157,6 +157,17 @@ as for now the algie power production is not that good i am trying a new method 
 
 ---
 
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `Bio_Solar_hybrid_panel.ipynb`
+- `README.md`
+- `biosolar_hybrid_panel_report (1).docx`
+- `biosolar_hybrid_panel_report (2).docx`
+- `biosolar_hybrid_panel_report.docx`
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
