@@ -100,6 +100,6 @@ No license file is present in this repository. Reuse and redistribution terms ar
 
 ## Maintenance & audit
 
-- **Audit date:** 11 November 2026
+- **Audit date:** 12 November 2026
 - **Scope:** Documentation update based on the actual notebook cells and root-level file listing.
 - **Verification:** The notebook was inspected but not executed in this pass. The DOCX files were not opened or compared. No experimental or hardware results are claimed.
